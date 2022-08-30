@@ -1,0 +1,9 @@
+h1 {
+    text-decoration: underline;    
+}
+body {
+    font-family: andale mono, monospace;
+}
+#copyright {
+    font-size: 75%;
+}
