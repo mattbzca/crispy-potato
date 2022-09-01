@@ -7,3 +7,11 @@ body {
 #copyright {
     font-size: 75%;
 }
+img {
+    float: left;
+    display: inline-block;
+    margin: 10px;
+}
+p {
+    overflow: hidden;
+}
