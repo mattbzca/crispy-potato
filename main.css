@@ -12,10 +12,17 @@ body {
 #copyright {
     font-size: 75%;
 }
-img {
+.image1
+{
     margin: 30px;
     float: left;
 }
+.image2
+{
+    margin: 30px;
+    float: right;
+}
 p {
+    text-indent: 15%;
     overflow: hidden;
 }
