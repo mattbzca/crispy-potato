@@ -28,6 +28,11 @@ body {
     float: right;
     width: 20%
 }
+.image4 {
+    margin: 30px;
+    float: right;
+    width: 20%
+}
 p {
     text-indent: 15%;
     overflow: hidden;
